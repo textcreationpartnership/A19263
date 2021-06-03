@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A notable and prodigious historie of a mayden who for sundry yeeres neither eateth, drinketh, nor sleepeth, neyther auoydeth any excrements, and yet liueth. A matter sufficiently opened and auerred, by the proceedings, examinations, and dilligent informations thereof, taken ex officio by the magistrate. And since by the order of the said magistrate printed and published in high Dutch, and after in French, and nowe lastlie translated into English. 1589.</title>
+         </titleStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19263</idno><idno type="EEBO-CITATION">99853411</idno>
+  <idno type="VID">18794</idno>
+  <idno type="EEBO-PROQUEST">2248546807</idno>
+  <idno type="STC">STC 5678</idno>
+  <idno type="STC">ESTC S118203</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99853411e"/>
+            <note>(EEBO-TCP ; phase 2, no. A19263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 418:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A notable and prodigious historie of a mayden who for sundry yeeres neither eateth, drinketh, nor sleepeth, neyther auoydeth any excrements, and yet liueth. A matter sufficiently opened and auerred, by the proceedings, examinations, and dilligent informations thereof, taken ex officio by the magistrate. And since by the order of the said magistrate printed and published in high Dutch, and after in French, and nowe lastlie translated into English. 1589.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by [J. Charlewood for] Iohn Woofe,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>Anno. M.D.LXXXIX. [1589]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Original not traced.</note>
+                  <note>With an attestation by Conrad Colb, i.e. Kolb, of Wartemburg, and others--STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cooper, Catherine.</term>
+               <term type="topical_term">Curiosities and wonders --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18794:1"/>
+            <pb facs="tcp:18794:1"/>
+            <p>A notable and prodi<g ref="char:EOLhyphen"/>gious Historie of a Mayden, who for <hi>sundry yeeres neither eateth, drinketh,</hi> nor sleepeth, neyther auoydeth any ex<g ref="char:EOLhyphen"/>crements, and yet liueth.</p>
+            <p>❧ A matter sufficiently opened and auerred, by the pro<g ref="char:EOLhyphen"/>ceedings, examinations, and dilligent informations thereof, ta<g ref="char:EOLhyphen"/>ken ex officio by the Magistrate. And since by the order of the said Magistrate Printed and published in high Dutch, and after in French, and nowe lastlie translated into English. 1589.</p>
+            <figure>
+               <figDesc>printer's device for John Charlewood?</figDesc>
+               <q>NOSCE TE IPSUM</q>
+               <q>NE QVID NIMIS</q>
+               <q>LOVE AND LYVE</q>
+            </figure>
+            <p>AT LONDON, ❧ <hi>Printed by John Woolfe.</hi> Anno. M.D.LXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:18794:2"/>
+            <pb n="3" facs="tcp:18794:2"/>
+            <head>An exact information and declaration of a true Historie, importing: howe a Mayden of the Towne of <hi>Schmidweiler,</hi> (scituate in the iurisdiction of Col<g ref="char:EOLhyphen"/>berberg, the demaines and Lordship of the most noble Prince, the L. Duke <hi>Iohn Casimir,</hi> Countie Palatine of <hi>Rhin,</hi> Tutor and administrator of the Palatine Electorate) did nei<g ref="char:EOLhyphen"/>ther eat or drink any thing in seuen yeres, &amp; yet hath by Gods grace in wonderfull manner beene preserued aliue.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the commaundement of the most noble Prince, my Lorde Duke <hi>Iohn Casi<g ref="char:EOLhyphen"/>mir,</hi> Countie Palatin of <hi>Rhin,</hi> Tutor and ad<g ref="char:EOLhyphen"/>ministrator of the Palatine Electorate, Duke of <hi>Bauier. Conrad Colb</hi> of <hi>Wartemberg</hi> Es<g ref="char:EOLhyphen"/>quire, Gouernour for his highnes at <hi>Caiserlau<g ref="char:EOLhyphen"/>ter, Adrian Lollemanne,</hi> superintendent of the same place, <hi>Hen<g ref="char:EOLhyphen"/>rie Smith,</hi> and <hi>Iohn Iames Theodore,</hi> Doctors in Phisick, were deputed and sent to sée and visit the daughter of <hi>Cun</hi> the Cooper of <hi>Schmidweiler,</hi> a Village scituate within the iurisdiction of <hi>Colberberg,</hi> our said Lords demaines and Lordship, who is cal<g ref="char:EOLhyphen"/>led <hi>Katerin,</hi> and is said not to haue eaten, dronke, or voided anie thing out of her body for these seauen yeeres: to the ende also, exactlie, narrowly and truly to enquire out the whole estate and matter of the saide Maiden. In performance wherof, the said Commissioners met at the said place of <hi>Schmidweiler,</hi> vpon Tuesday the <hi>24.</hi> of Nouember, <hi>1584.</hi> and there made enqui<g ref="char:EOLhyphen"/>rie in manner as ensueth.</p>
+            <p>First, after the arriual of the said Commissioners at <hi>Colber<g ref="char:EOLhyphen"/>berg</hi> toward euening the <hi>23.</hi> of Nouember, they sent for the said <hi>Cun</hi> the Cooper, father of the said Maiden, and him admonished, summoned, and adiured, by his oath &amp; duetie due vnto his Lord, freely to shew, and openly to confesse, vpon euery point and Ar<g ref="char:EOLhyphen"/>ticle that should be vnto him propounded, whatsoeuer he might haue truely séene and known concerning his daughter, and how her whole case had fully passed sence the beginning vnto y<seg rend="sup">t</seg> time, and not to hide or dissemble anie thing. Whereupon he answe<g ref="char:EOLhyphen"/>red distinctly as followeth.</p>
+            <pb n="4" facs="tcp:18794:3"/>
+            <p n="1">
+               <hi>1</hi> First that his name is <hi>Cun Cooper,</hi> borne at <hi>Spisheim,</hi> and his wiues <hi>Katerin,</hi> borne at <hi>Valdemor.</hi>
+            </p>
+            <p n="2">
+               <hi>2</hi> That in the yere <hi>1552.</hi> they went to the Church &amp; were ma<g ref="char:EOLhyphen"/>ried at <hi>Duntzweiler.</hi> Since which time they haue remained vn<g ref="char:EOLhyphen"/>der my said L. the most noble Prince <hi>Iohn Casimir,</hi> in y<seg rend="sup">e</seg> village of <hi>Schmidweiler,</hi> in the iurisdiction of <hi>Colberberg,</hi> and are bothe iusticiable and naturall subiects to my said Lord.</p>
+            <p n="3">
+               <hi>3</hi> That during their marriage they haue had fiue children of whom the said <hi>Katerin</hi> the yongest is about <hi>27.</hi> yeeres of age.</p>
+            <p n="4">
+               <hi>4</hi> That her mother went her ful time, &amp; neuer had mischance or fright while y<seg rend="sup">e</seg> childe was in her wombe, but was safely deli<g ref="char:EOLhyphen"/>uered. That the childe came into y<seg rend="sup">e</seg> world in good &amp; perfit health, both faire and lustie, and that herselfe nursed it.</p>
+            <p n="5">
+               <hi>5</hi> That the child had no great sicknes before it was about ten yeres old, &amp; then it had y<seg rend="sup">e</seg> shingles, which held it about <hi>4.</hi> wekes, and beeing recouered for a time continued wel &amp; lusty, and eate and drank, &amp; in time conuenient had her menstrual purgations.</p>
+            <p n="6">
+               <hi>6</hi> That the said <hi>Katerin</hi> was at <hi>Eniedt</hi> at a mariage, the space of two daies, and at her comming home had an ague y<seg rend="sup">e</seg> tooke her with a shaking. Hereupō she lost al plesure &amp; appetite to warme meats for y<seg rend="sup">e</seg> space of <hi>5.</hi> yeres, but eat cold meat. Neither could she drink any wine, but water only, yet liued in good health, though not without y<seg rend="sup">e</seg> wonder of her parents. All the said time she was likewise obedient to her father &amp; mother, and praied dilligently to God, learned her Catechisme, and willingly frequented Ser<g ref="char:EOLhyphen"/>mons, and gaue eare to reasoning in Gods word, that withal she wold chéerefully labor vntil y<seg rend="sup">e</seg> time of her weaknes &amp; infirmitie.</p>
+            <p n="7">
+               <hi>7</hi> That for her recouery of a taste of warme meates, her Pa<g ref="char:EOLhyphen"/>rents beside their houshold phisick, asked counsel of an vnlerned phisition of <hi>Caiserlauter,</hi> called <hi>Scher Otteln,</hi> sonne to y<seg rend="sup">e</seg> deceased <hi>Hebamm,</hi> who vndertooke to help her, and return her to a tast of warme meats: and therupon gaue her a potion which wrought her much trouble, so as she became so weak y<seg rend="sup">t</seg> she lost al appetite both from warme meat and cold: and since that time, which is about <hi>7.</hi> yeres, there could neither meat or drink goe down her throte, sauing that about sire monthes after she sucked the iuice of certain Aples or Peares. Also her parents being minded to séeke remedy &amp; aske counsel again, she requested them not to doo it, but to commende the whole matter to God, who was able to
+<pb n="5" facs="tcp:18794:3"/>deliuer her from this crosse, which it pleased him according to to his blessed will to send her.</p>
+            <p n="8">
+               <hi>8</hi> She hath no true &amp; natural sléep as other persons, and in the night she hath sundry fancies. Since she could not vse the iuice of Aples &amp; Peares, she hath washed her mouth with <hi>Aqua vitae</hi> only, but neuer could swallow the least drop therof: only by this washing she hath gathered some strength. Also the saide <hi>Aqua vitae</hi> is now too sharp, and therefore shée can not vse it alone, but taketh fresh water mingled therewith, somewhat to ease and refresh herselfe.</p>
+            <p n="9">
+               <hi>9</hi> That her said father, since she lay without eating, as yet she doth, coulde neuer perceiue any euarcuation of her belly, or anie vrine or sweat that commeth from her: nor sée any vermine in her head or els where, but stil findeth both her bed &amp; body clean, and void of any filthines, except y<seg rend="sup">t</seg> somtimes she séemeth to haue some distillation of the braine, and spitteth, but very little. Also somtimes vnder one of her sides there riseth somwhat that pas<g ref="char:EOLhyphen"/>seth to her hart, and procureth her paine especially in the head, this happeneth when the wether is not cléere, &amp; maketh her so weak, that she looseth al her strength, but it continueth not long.</p>
+            <p n="10">
+               <hi>10</hi> She can brooke the sight and smel of meats, but hath no de<g ref="char:EOLhyphen"/>sire to vse any. She hath also diuers swounings, wherupon they rub her nose, temples, breast, and pulses with certaine vertuous waters, whereby she receiueth her strength. Héere hee ended his deposition.</p>
+            <p>Secondly <hi>Katerin</hi> the Maids mother was examined seueral<g ref="char:EOLhyphen"/>ly vpon the said Articles, whose deposition agréeth, as before.</p>
+            <p>Thirdly for y<seg rend="sup">e</seg> farther, inquisition of the truth were adiourned, called &amp; examined al the said princes subiects, inhabitants of the said <hi>Schmidweiler,</hi> with their wiues, that often visited the sayde Maid, admonishing them of their duties &amp; fidelity wherin they stand bound to their Lorde, but specially the women, that vppon their faith &amp; honor they should testifie the truth, &amp; not to conceale or dissemble any thing that they had heard or séene, also whither they were not of opinion, that in this action there were some secret deceit. Who al iointly &amp; seuerally both men &amp; women, said and declared y<seg rend="sup">t</seg> they knewe no more then they had learned and heard of her parents, all which is founde to agrée with her saide fathers deposition in euery point, as aboue is mencioned.</p>
+            <pb n="6" facs="tcp:18794:4"/>
+            <p>Onely <hi>Steuen Conrade,</hi> one of the Magistrates of the saide <hi>Schmidweiler,</hi> saith, that he hath heard and seene the Maids fa<g ref="char:EOLhyphen"/>ther and mother, sometimes buy sugar and such drugges, but whereabout they vsed it or howe he knoweth not, or whether it were for the said Maide. He farther saith, that the saide Father and Mother onely tend the said Maiden, and take her vppe and lay her downe, neuer suffering their Maiden, or any of the fami<g ref="char:EOLhyphen"/>lie to helpe them at all, and this is all that he could say.</p>
+            <p>
+               <hi>The names of those that were heard &amp; examined.</hi>
+            </p>
+            <p>
+               <hi>Steuen Conrad</hi> of <hi>Schmidweiler,</hi> an officer of the Lawe and <hi>Gets</hi> his Wife. <hi>Molter Iohn</hi> and <hi>Margaret</hi> his wife. <hi>Iohn</hi> the Taylor. <hi>Iohn Conrade</hi> a Smith, and <hi>Magdalein</hi> his wife. <hi>Eni<g ref="char:EOLhyphen"/>chen</hi> a sheepheards wife, all inhabitants of <hi>Schmidweiler.</hi>
+            </p>
+            <p>Fourthly, the Phisitions visited the said <hi>Katerin,</hi> &amp; found her in euery point as insueth, according to the markes and tokens, and her shape and speech.</p>
+            <p n="1">First her face is faire and sound, of good couller, ful of life and good disposition, her eyes cléere, quicke and well sighted as anie whole bodies, except that they be a little suncke into her heade, and that sometimes there arriseth a swelling vnder them which continueth not long, neither is there any impediment in her smelling, hearing or tast, as they say and testifie. Her spéech like<g ref="char:EOLhyphen"/>wise is faire, gracious, decent, cléere, significant and intelligible: onely her mouth is shronke vp so close by reason of her cheekes that are very sore (as her selfe told vs) that she can scarce put in her litle finger, albeit there appeare no apparant or grosse swel<g ref="char:EOLhyphen"/>ling. But when she is vp, she cannot of herselfe holde vppe her head, or keepe it vpright by reason of swimmings of the heade. Her hayre is all fallen, but beginneth to growe againe, and shee neuer felt any vermin therein. During this her infirmitie or weakenes, for thrée yeeres shee loft almost her hearing and vn<g ref="char:EOLhyphen"/>derstanding, but vpon Thursday before Easter <hi>1583.</hi> shee reco<g ref="char:EOLhyphen"/>uered her speech and vnderstanding verie well, yea much better then she had them in her health time, and that after this strange and wonderfull manner ensuing. viz. While her Father the same time, as a man of occupation was making of planckes in the forrest, and her Mother was gone to him, so that there was
+<pb n="7" facs="tcp:18794:4"/>no body in the house, but that all the doores were shutte: there came a man into the stooue in Ministers apparrell, and draw<g ref="char:EOLhyphen"/>ing neere the bed, lifted her vp vnder the left elbowe, &amp; walking vp and downe with her, began to question with her whither shée could pray well, wherat she was somewhat amazed, because she could make him no answer, for she was yet dombe. Then hée be<g ref="char:EOLhyphen"/>gan to pray vnto her (as shee termeth it) Gods ten Commaun<g ref="char:EOLhyphen"/>dements after the <hi>Lutherans</hi> manner, and then after such sorte as her Minister and Pastor had taught her them, together with the Articles of the faith, the Lordes prayer, and the institution of Baptisme and the Lords supper, repeating all the premisses vnto her, with an exhortation to patience, consolation and assu<g ref="char:EOLhyphen"/>rance that she should shortly receiue her speech, and so he depar<g ref="char:EOLhyphen"/>ted suddainly from her: and that after that her speech returned immediatly, so as she talked sensibly to her mother at her return home, whereat her said mother was maruailously abashed, and as it were afraide, as also was her father at his comming in. Since which time shee neuer had impediment in her speech or vnderstanding.</p>
+            <p n="2">
+               <hi>2</hi> Concerning her breast or stomack, her breath is sweet and of good sauour, her pouls in both armes and feete naturall, in good order, proportionable and equall, but outwardly both before and behind her two shoulders, aboue and beneath shee is somewhat wearie and tired. Her brestes are more long, soft and hanging then Maidens vse to be. Sometimes she feeleth paine one both sides vnder her short ribs, which slideth and bendeth toward the pit of her stomack, &amp; maketh her so weake and faint, that she can scarce drawe her breath, and somtimes she séemeth as her wind should vtterly faile her, which paine neuertheles weareth soone away by reason of applying or chafing her with vertuous and sweet waters, and if any touch the pit of her stomack, it putteth her to paine.</p>
+            <p n="3">
+               <hi>3</hi> As for her wombe, it is somewhat fallen as a voide &amp; emptie bodie, and yet is outwardly reasonable plumpe, fleshy and fat, as also she is about the hips and the nether part of her chine. She is not troubled with any winde or collick, or any other prickinges within her, as hickets or other troubles of the stomack. Farther albeit oftentimes without constraint of néede and necessitie, shée hath strained herselfe to take &amp; swallowe any thing, yet can shée
+<pb n="6" facs="tcp:18794:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:18794:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:18794:6"/>not doo it, neuertheles she can wel abide the sight and sauour of meat, and suffer them to eate and drinke by her, howheit some<g ref="char:EOLhyphen"/>times more then other, for her throte was &amp; yet is, as if it were close &amp; stopped vp, neither hath she any stooles, vrine, or mēstru<g ref="char:EOLhyphen"/>all purgations, as before her sicknes for a while shee had verie perfectly and in good order, but doe nowe vtterly faile her. Like<g ref="char:EOLhyphen"/>wise she neuer thirsteth, yet somtimes shee taketh a little freshe water &amp; <hi>Aqua vitae</hi> mingled together to wash her mouth with<g ref="char:EOLhyphen"/>all, but spitteth it straight out againe. This she vsed to doo with <hi>Aqua vitae</hi> alone before, but now she can not abide it, as beeing ouer sharp &amp; strong in her mouth, which is waxen ouer tender and delicate, so that she doth it but to refresh her head and hart.</p>
+            <p n="4">
+               <hi>4</hi> Concerning her armes and legs, her armes are sounde and fleshy, especially the left, which is very actiue, and in euery re<g ref="char:EOLhyphen"/>spect without default, but her right arme is numbe from the el<g ref="char:EOLhyphen"/>bow to her fingers ends, so as her hand is become crooked, &amp; her fingers stiffe that she can not stir them. She can doo somewhat with her right arme neer the shoulder, yet can she not lift it to her head, or from one side to another without help. Her legs are méetly ful &amp; fleshic, but so crooked that she can not stretch them foorth, yet can she somwhat mooue her féete &amp; her toes. Her arme is so benummed and her legges crooked since within these thrée yéeres that she hath lien and eaten nothing. Throughout her whole body, she hath a temperat and kindly heate. The nayles both of her féete and hands are wel formed, somewhat long, in good state and disposition, as beséemeth a whole bodie.</p>
+            <p>Now in as much as throughout this search and inquest, yea a very dilligent inquisition, as exactly taken as might bee, there doth not appeare any certaine ground, means or reason for this Maidens state, condition or case, whither she be thus maintai<g ref="char:EOLhyphen"/>ned by the singular grace of almighty God, or by any sleight or deceit she be fed with natural meat &amp; drinke: all and euery the said Commissioners haue thought it good and expedient for the discouery of all truth to employ this farthar charge. viz. That the Maid be tended by foure wise &amp; skilful women méet for such matter, who for the same purpose shalbe chosen, and sent to the said place of <hi>Schmidweiler,</hi> there by turnes to kéepe and watche her, two by day, &amp; two by night, for the space of <hi>14.</hi> daies with all dilligence, to sée that she haue neither meat nor drinke admi<g ref="char:EOLhyphen"/>nistred
+<pb n="9" facs="tcp:18794:6"/>vnto her by any person, father, mother, or whosoeuer, likewise y<seg rend="sup">t</seg> the bed wheron she nowe lieth be changed &amp; an other brought in the place, as also that throughout the whole stooue, there be dilligent search, and the rather for occasions folowing.</p>
+            <p>First, because out of the Maids own mouth it hath béen heard, that not only there come vnto her both Iesuites, Nuns and some Lay persons of the bishoprick of <hi>Treues,</hi> which vse sundry spee<g ref="char:EOLhyphen"/>ches with her, yea euen rare reuelations &amp; prophesies from her, but because there haue béen Letters found about her, written as it were to a holy virgin, wherby it appeareth they would make her a very Idoll, yea and in the end forme and practise some pil<g ref="char:EOLhyphen"/>grimage vnto her.</p>
+            <p n="2">
+               <hi>2</hi> Secondly because of the inquest among the peasants, there can be nothing learned, but as they haue heard of y<seg rend="sup">e</seg> Maides fa<g ref="char:EOLhyphen"/>ther and mother, except that <hi>Steuen Conrad of Schmidweiler,</hi> in his deposition toucheth some doubt, and yet can testifie nothing certaine or assured, whether there be any deceit or fraude in the action.</p>
+            <p n="3">
+               <hi>3</hi> Thirdly, for that the said maid is so sound and perfect in her lims, and not otherwise disposed then a very sound body, which cannot be naturally, as also shee can not so long continue with<g ref="char:EOLhyphen"/>out eating and drinking: These be the causes as aforesaide, es<g ref="char:EOLhyphen"/>specially for the eschewing of all Idolatrie, as also to cut off all meanes and occasion of villanous backbiting from enemies and aduersaries, of this good aduice &amp; deliberation of the saide Com<g ref="char:EOLhyphen"/>missioners, who without delay tooke in hand this searche &amp; exact obseruation before the said Maid were any further circumuen<g ref="char:EOLhyphen"/>ted, or wrought for her faith, whereof shee made declaration to the said Commissioners, namely, that she will &amp; purposeth con<g ref="char:EOLhyphen"/>stantly to perseuere in the ten Commandements, and all y<seg rend="sup">e</seg> doc<g ref="char:EOLhyphen"/>trine she hath learned of her Pastor, as also she gaue the super<g ref="char:EOLhyphen"/>intendent at his going forth, whom she desired spéedily to return again, as also to haue her in remembraunce in euery his prayer at his ordinary preachings, likewise that he might help to pray to God for her, that he would vouchsafe to maintaine and keepe her in this knowledge and constant confession of faith.</p>
+            <p>Howbeit this affaire dependeth vppon my saide most noble Lords pleasure, and resteth in his hand and power. &amp;c. And the said Commissioners doe most humbly héereuppon attende more
+<pb n="10" facs="tcp:18794:7"/>ample commandement and answer. Giuen, the day, time, and place aboue mencioned, in the presence of Ma. <hi>Godfrey Tabor,</hi> Pastor of the Church of <hi>Colberberg. Nicholas Hoche,</hi> prouost Iustice in the same place, and <hi>Iames Schicab,</hi> Lieuetenant Cha<g ref="char:EOLhyphen"/>telain of <hi>Caiserlauter.</hi> Also the said Commissioners haue subscri<g ref="char:EOLhyphen"/>bed it with their owne hands.</p>
+            <closer>
+               <signed>
+                  <hi>Conrad Colb</hi> of <hi>Wartemberg</hi> Esquire, Gouernor of <hi>Caiserlauter. Adrian Lollemanne. Henry Smith,</hi> doc<g ref="char:EOLhyphen"/>tor of phisicke. <hi>Iohn Iames Theodore,</hi> D. of phisicke.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>¶ To our Maisters, the worthy, noble, honorable, &amp; most learned Gouernor of <hi>Noustatt,</hi> Lieuetenant to the most no<g ref="char:EOLhyphen"/>ble Prince, our Lord, and to the Counsellors of the said Court, our gracious and gentle superiors, and our good friendes.</head>
+            <opener>
+               <salute>Right vertuous, noble, honorable, and learned Gouernour and Counsailers, our fauourable superiors, Lordes and good freendes, we present vnto you first, out cheer<g ref="char:EOLhyphen"/>full, speedy, and ready seruice.</salute>
+            </opener>
+            <p>ACcording to the commandement and commission, procéeding from your generositie and worthines, bearing date the <hi>24.</hi> of December <hi>1584.</hi> vnto vs directed, concerning the Maids case of the village of <hi>Schmidweiler,</hi> whe haue euery way made dilli<g ref="char:EOLhyphen"/>gent inquisition after foure honorable women, but a good while could find none that would meddle in such a matter, vntil at the last we had induced and perswaded <hi>Anne Brenning,</hi> the widow of the late <hi>Andrew Zils</hi> of this towne, otherwise called the olde Carpentresse. <hi>Anastazia,</hi> the widowe of the late of good memo<g ref="char:EOLhyphen"/>rie <hi>Iohn Eberhard,</hi> in his life time Pastor of <hi>Walhaben. Agnes</hi> the wife of the now Pastor of <hi>Steinwarden,</hi> and <hi>Margaret</hi> the widow of the deceased <hi>Iohn Gauffen,</hi> in his life time Burgesse of this towne, and the same furnished with power and authori<g ref="char:EOLhyphen"/>tie in such a case requisite. Hauing instructed and informed thē of their duties, according to the tenor of the aduice first sent to our Lord, and hauing sworne all the foure, wee caused them the <hi>16.</hi> of Ianuarie last, to be conueied to <hi>Schmidweiler,</hi> with Ma. <hi>Lolleman</hi> the superintendent, where they remained about the said Maid vntil the <hi>30.</hi> of the same Month, and vpon their re<g ref="char:EOLhyphen"/>turn hither, the next day they reported vnto vs at large, what
+<pb n="11" facs="tcp:18794:7"/>they had learned, found and fried concerning her, as followeth.</p>
+            <p>When the superintendent with the foresaid women, arriued late at <hi>Colberberg,</hi> the <hi>16.</hi> of Ianuary, they wold not trouble the said Maiden that night, but the next day, viz. the <hi>17.</hi> they went by wagon to <hi>Schmidweiler,</hi> &amp; came first to her father &amp; mother, giuing them to vnderstand that by the Gouernors commaunde<g ref="char:EOLhyphen"/>ment they came with charge &amp; commission to kéepe their daugh<g ref="char:EOLhyphen"/>ter one fortnight, and that it was doone only to stop y<seg rend="sup">e</seg> mouthes of such as euery where spake badly of her, yea and of their most merciful Lord and prince, because his highnes giueth credite to their daughters spéeches, namely, y<seg rend="sup">e</seg> in so long time shee neither eat nor drank, fully perswading himself that she vseth not those spéeches vpon any lying or fraud, as also to the end that once the whole truth may be known. Where to her parents did willingly consent: and louingly receiuing them, brought them into the Maids chamber, where the said M. <hi>Adrian</hi> vsed the same spee<g ref="char:EOLhyphen"/>ches to the Maide, as before to her father &amp; mother, concerning the cause of their comming. Heereupon she beganne to enquire why they should now begin so much to molest &amp; trouble her, but most she gréeued that her father and mother might not nightlie lie in her Chāber, wherupon she wept sore. But when M. <hi>Lol<g ref="char:EOLhyphen"/>leman</hi> was gone, <hi>Anne Brenning</hi> spake her so fair, y<seg rend="sup">t</seg> she willing<g ref="char:EOLhyphen"/>ly granted them, not onely to carie out her father and Mothers bed, but also to search her owne, and to cary it away &amp; make her another in another place of y<seg rend="sup">e</seg> st<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue, so as her parents could not by night lie in her Chamber, and whensoeuer they came into the Chamber, yet durst they not come néere their daughter, or haue any secrete spéech with her.</p>
+            <p>Now during the said fortnight, they did at full declare and re<g ref="char:EOLhyphen"/>hearse to the said women how her weaknes began, &amp; how long she had continued without eating and drinking, which dooth wholy agrée with the first report made to the Commissioners. The said woman also found her to be sometime weaker then o<g ref="char:EOLhyphen"/>thersome, and stil two of them watched with her by day, &amp; two by night. Also for further triall of y<seg rend="sup">e</seg> truth, one of the foure night<g ref="char:EOLhyphen"/>ly lay in bed with her, that no deceit might bee vsed, which they dilligently preuented, and watched carefully night and day, and yet can there be nothing found, but all agréeth with that which before she said of herselfe in truth assured. Moreouer, the sayde
+<pb n="12" facs="tcp:18794:8"/>foure women, especially <hi>Anne Brenning,</hi> haue confessed before vs, and sollemnly affirmed, that they doo take it vpon the salua<g ref="char:EOLhyphen"/>tion of their loules, and wil die thereupon, that the said Maiden neither eate nor drank one morsel or droppe, neither tooke anie comfitures. Likewise y<seg rend="sup">t</seg> she voided no vrine neither any other excrements out of her, much lesse that she stept any whit. Also that whosoeuer calleth this Maidens case into doubt, dooth her iniurie &amp; great wrong, and the rather, because her Parents doe freely offer, &amp; are ready to suffer their said daughter to be trans<g ref="char:EOLhyphen"/>ported into any other place, which it may please our most mer<g ref="char:EOLhyphen"/>cifull Lord and Prince to name and appoint, so that shee may onely endure the cariage.</p>
+            <p>Besides, the said women reported vnto vs, that at y<seg rend="sup">e</seg> taking of their leaue of the said Maide, she hartily besought &amp; requested them in her name, most humbly to beséeche our most courteous Princesse to giue her some good bed, also to impart vnto her of her vertuous and corroborating waters, because she hath héere<g ref="char:EOLhyphen"/>tofore manifestlie perceiued and tried that shee hath sound ease in the said waters, albeit she could not recouer her health.</p>
+            <p>Of all which thinges, according to our dueties and humble seruice, we doo by this our present report certifie your generosi<g ref="char:EOLhyphen"/>tie and worthines: withall, commending you vnto almightie God, to whose good fauour we hartilie desire to be commended.</p>
+            <closer>
+               <dateline>From <hi>Caiserlauter</hi>
+                  <date>the <hi>19.</hi> of Februarie. <hi>1585.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Of your generositie and worthines, the most ready and affectionate seruitors, <hi>Conrad Colbe</hi> of <hi>War<g ref="char:EOLhyphen"/>temberge</hi> Esquire. <hi>Iohn Zann,</hi> Notarie prouinciall.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="note_to_the_reader">
+            <p>THe Readers are to be aduertised, that the said <hi>Katerin</hi> yet liueth in like disposition &amp; state as this report doth import, and hath thus continued without eating, drinking, or sleeping, the space of nine whole yéeres compleat, and yet miraculoussie liueth through the singular, pure, and incomprehensible grace of almighty GOD.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:18794:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
